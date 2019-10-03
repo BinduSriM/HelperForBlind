@@ -1,6 +1,8 @@
-Helper For Blind - Google Cloud Vision 
+## Helper For Blind - Google Cloud Vision 
 
-## Outcome:
-Object detection
-Face Emotion Detection
+### Outcome:
+Object detection,
+
+Face Emotion Detection,
+
 OCR
