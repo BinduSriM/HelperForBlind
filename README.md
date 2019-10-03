@@ -1,1 +1,1 @@
-# Helper For Blind - Google Cloud Vision 
+ Helper For Blind - Google Cloud Vision 
